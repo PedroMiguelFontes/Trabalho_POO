@@ -1,0 +1,20 @@
+body {
+    background-image:linear-gradient(rgba(255,255,255,0.3), rgba(255,255,255,0.3)),url("http://eletronics.dailymaker.net/wp-content/uploads/sites/7/2019/07/electronic-engineering.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+
+p {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+img,button {
+    display: flex;
+    justify-content:center;
+}
+
+
